@@ -1,0 +1,115 @@
+HOME
+	Header
+		Menu superior
+			Institucional
+				xxx
+				xxx
+			Nossas marcas
+				xxx
+				xxx
+			Iniciativa
+				xxx
+				xxx
+				xxx
+			Trabalhe Conosco
+		BUSCA
+
+	Carrousel banner principal
+		Banner
+			Titulo
+			tagline
+			button
+			img bg
+		Banner
+			Titulo
+			tagline
+			button
+			img bg
+		paginacao
+
+	Carrousel nossas marcas
+		Titulo	
+		tagline
+			Banner
+				logo
+				texto
+				button saiba mais
+			Banner
+				logo
+				texto
+				button saiba mais
+		paginacao
+
+	banner conheca nossa historia 
+		titulo
+		texto
+		button
+		img bg
+
+	noticias 
+		Titulo (noticia)
+		data
+		titulo
+		tagline
+		button saiba mais
+
+	trabalhe conosco
+		Titulo (trabalhe conosco)
+		tagline
+		button
+		bg (moisaco fotos
+		)
+	projeto escola | instituto germinare
+		titulo (projeto escola)	
+		texto
+		button
+	projeto escola | instituto germinare
+		titulo (projeto escola)	
+		texto
+		button
+	
+	footer com menu
+		logo
+		Vigor Alimentos
+			Sobre nos
+			trabalhe conosco
+			lojas vigor
+			noticias
+			investidores
+			fale conosco
+
+		Marcas
+			Vigor
+			amélia
+			carmelita
+			danubio
+			faixa azul
+			jong 
+			leco
+			mesa
+			serrabela
+			food service
+
+		Atendimento ao consumidor
+			0800 724 6433
+
+		newslettter
+			input email
+			button register 	
+
+		redes
+			fb
+			twitter
+			youtube
+			instagram
+
+		subfooter
+			logo ginga
+			copyright
+
+
+
+
+
+
+

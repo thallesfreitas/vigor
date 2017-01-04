@@ -1,0 +1,2 @@
+Second Component
+@{{ texto }}

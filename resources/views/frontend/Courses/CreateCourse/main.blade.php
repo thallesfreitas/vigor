@@ -1,0 +1,1 @@
+<coursesform [course]="course" [action]="'Create New Course'"></coursesform>

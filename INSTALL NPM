@@ -1,0 +1,35 @@
+npm install gulp
+npm install laravel-elixir
+npm install node-uuid 
+npm install uuid
+npm install minimatch
+npm install coffee-script -g
+npm install marked -g
+npm install node-gyp -g
+npm install webpack
+npm install laravel-elixir-livereload
+npm install laravel-elixir-webpack-ex
+npm install awesome-typescript-loader
+
+npm install rxjs@5.0.1
+
+npm install i zone.js@0.7.2 --save-dev
+
+npm install zone.js
+npm install @angular/core
+npm install @angular/common
+npm install @angular/compiler
+npm install @angular/forms
+npm install @angular/platform-browser
+npm install @angular/platform-browser-dynamic
+npm install @angular/http
+npm install @angular/router
+npm install @angular/upgrade
+npm install es7-reflect-metadata
+
+
+
+PASTAS DELETADAS RXJS
+/Users/mac/Sites/nginx/www/vigorlocal/node_modules/rxjs/testing
+/Users/mac/Sites/nginx/www/vigorlocal/node_modules/rxjs/scheduler
+/Users/mac/Sites/nginx/www/vigorlocal/node_modules/rxjs/operator
